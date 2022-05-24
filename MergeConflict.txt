@@ -1,1 +1,10 @@
+
+<<<<<<< HEAD
+
+
+
+tried
 conflictttt
+=======
+second tryyyyyy sdfefdsf
+>>>>>>> act2
